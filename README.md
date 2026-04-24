@@ -1,3 +1,4 @@
+## Demo
 <p align="center">
   <img src="assets/demo.gif" alt="HR Workflow Designer Demo" width="100%" />
 </p>
@@ -44,15 +45,7 @@ This project allows HR teams to visually design and test internal workflows such
 
 ---
 
-## Demo
 
-Place your screen recording GIF here:
-
-assets/demo.gif
-
-Once uploaded, it will automatically appear at the top of this README.
-
----
 
 ## How to Run Locally
 
